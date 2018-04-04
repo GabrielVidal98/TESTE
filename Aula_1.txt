@@ -1,0 +1,64 @@
+Comitar -> Comit -> ação de enviar o seu código para um repositório.
+Debugar -> Debug -> achar bugs.
+Deploy -> enviar trabalho para um servidor.
+
+GITHUB
+Pull - trás do repositório para a máquina.
+Push - manda da máquina para o repositório.
+______________________________________________________________________________________________
+
+Introdução ao HTML/CSS/Javascript
+1) Estrutura básica de uma página HTML.
+<HTML>
+	<HEAD>	] *Título da página
+	      .	] *CSS
+	      .	} *Javascript
+	      .	] *Meta comandos da página (UTF-8)
+	</HEAD>	] 
+	<BODY>	] 
+	      .	]
+	      .	} Tag's de formatação da página.
+   	      .	]
+	</BODY>]
+</HTML>
+
+FRONT-END {Aparência
+BACK-END {Trabalha com programação
+FULL STACK {FRONT-END + BACK-END
+
+w3schools.com - para testar.
+validator.w3.org - para procurar erros.
+
+2) Títulos
+	<H1>...</H1>
+	         .
+	         .
+	         .
+	<H6>...</H6>
+
+3) Parágrafo
+	<p>...</p>
+
+4) Quebra de linha
+	<br />
+
+5) Listas
+a) Numeradas
+	<ol>...</ol>
+b)Não numeradas
+	<ul>...</ul>
+c)Itens
+	<li>...</li>
+
+6) Tabelas
+	<table>...</table>
+	*Linhas
+		<tr>...</tr>
+	*Colunas
+		<td>...</td>
+	*Cabeçalho das colunas
+		<th>...</th>
+	*Outras tag's
+		<thead>...</thead>
+		<tfoot>...<	/tfoot>
+		<tbody>...</tbody>	
