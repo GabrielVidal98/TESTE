@@ -1,0 +1,23 @@
+Projeto Prático
+
+Objetivo: construir uma agênda telefônica utilizando php, mysql, html, css,...
+
+Banco de dados
+Nome: Agenda
+Usuário: Root
+Senha: Root
+URL: localhost
+Porta: 3306
+
+Tabelas
+Agenda
+Cidade
+Telefone
+Usuários
+Celular 
+Comercial
+Residencial 
+
+C:\\xampp\htdocs\agenda\css
+			\js
+			\img
